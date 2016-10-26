@@ -7,8 +7,6 @@
       android:id="@+id/flag"
       android:layout_width="@dimen/flag_width"
       android:layout_height="@dimen/flag_height"
-      android:layout_marginLeft="@dimen/padding_material"
-      android:layout_marginStart="@dimen/padding_material"
       android:layout_centerVertical="true"
       />
 
