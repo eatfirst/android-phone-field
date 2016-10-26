@@ -8,6 +8,7 @@
       android:dropDownWidth="@dimen/spinner_height"
       android:popupBackground="@color/pf_white"
       android:tag="@string/com_lamudi_phonefield_flag_spinner"
+      android:background="@null"
       />
 
   <android.support.design.widget.TextInputLayout

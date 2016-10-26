@@ -2,13 +2,11 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:paddingTop="@dimen/padding_medium"
-    android:paddingBottom="@dimen/padding_medium">
+    android:layout_height="match_parent">
 
   <ImageView
       android:id="@+id/flag"
-      android:layout_width="@dimen/flag_size"
-      android:layout_height="@dimen/flag_size"
+      android:layout_width="@dimen/flag_width"
+      android:layout_height="@dimen/flag_height"
       />
 </LinearLayout>
